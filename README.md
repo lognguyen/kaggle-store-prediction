@@ -14,3 +14,6 @@ https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data
 
 ## Competitions Submission ##
 https://www.kaggle.com/leiffy/competitions
+
+## Warning, sometimes Github can't render plotly graph properly. 
+Try to run locally or go to nbviewer: https://nbviewer.org/github/lognguyen/kaggle-store-prediction/blob/main/storePrediction.ipynb
